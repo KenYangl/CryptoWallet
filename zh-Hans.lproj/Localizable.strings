@@ -1,0 +1,72 @@
+// TabBar
+"tab_home" = "首页";
+"tab_nft" = "数字藏品";
+"tab_browser" = "浏览器";
+"tab_settings" = "设置";
+// settings
+"settings_navigation_title" = "设置";
+"settings_wallets" = "钱包";
+"settings_security" = "安全";
+"settings_security_navigation_title" = "安全";
+"settings_enable_face_id" = "面容 ID";
+"settings_enable_2_factor_authentication" = "2FA";
+"settings_auto_app_lock" = "程序锁";
+
+"settings_appearance" = "外观";
+"settings_display_theme" = "深色模式";
+"settings_dark_mode_navigation_title" = "深色模式";
+"settings_dark_mode_automatic" = "跟随系统";
+"settings_dark_mode_settings_dark_mode_automatic_footer" = "开启后, 将跟随系统打开或关闭深色模式";
+"settings_dark_mode_select_manually" = "手动选择";
+"settings_dark_mode_normal" = "普通模式";
+"settings_dark_mode_dark" = "深色模式";
+"settings_dark_mode_subtitle_disabled" = "已关闭";
+"settings_dark_mode_subtitle_enabled" = "已开启";
+"settings_dark_mode_subtitle_automatic" = "跟随系统";
+
+"settings_appl_anguage" = "应用程序语言";
+"settings_support" = "支持";
+"settings_learn" = "学习";
+"settings_learn_intro_to_nft" = "数字藏品介绍";
+"settings_learn_what_is_nft_" = "了解什么是数字藏品?";
+"settings_learn_how_buy_nft" = "怎么购买数字藏品?";
+"settings_learn_what_nft_drops" = "什么是数字藏品空投?";
+"settings_learn_how_creat_nft" = "怎么创建数字藏品?";
+"settings_learn_what_is_mint" = "什么是铸造?";
+"settings_learn_what_are_redeemble_nft" = "什么是可赎回的数字藏品?";
+"settings_learn_how_sell_nft" = "如何卖数字藏品?";
+"settings_learn_what_art_nft" = "什么是艺术数字藏品?";
+"settings_learn_what_music_art" = "什么是音乐数字藏品?";
+
+"settings_learn_intro_to_web3" = "Web3 介绍";
+"settings_learn_what_is_web3" = "什么是web3?";
+"settings_learn_what_is_crypto_currency" = "什么是加密货币?";
+"settings_learn_what_is_crypto_wallet" = "什么是加密数字钱包?";
+"settings_learn_what_is_dao" = "什么是去中心化组织?";
+"settings_learn_protected_in_web3" = "在web3世界中如何保持安全?";
+"settings_learn_what_is_metaverse" = "什么是元宇宙?";
+"settings_learn_what_is_metamask_wallet" = "什么是MeatMask钱包?";
+"settings_learn_what_is_coinbase_wallet" = "什么是Coinbase钱包?";
+
+"settings_learn_intro_to_blockchain_basic" = "区块链基本知识";
+"settings_learn_what_is_blockchain" = "什么是区块链?";
+"settings_learn_what_is_gas_fees" = "什么是区块链矿工费?";
+"settings_learn_what_is_ethereum" = "什么是以太坊?";
+"settings_learn_what_is_WETH" = "什么是 WETH?";
+"settings_learn_what_is_Arbitrum" = "什么是 Arbitrum?";
+"settings_learn_what_is_Polygon" = "什么是 Polygon(MATIC)?";
+"settings_learn_what_is_Etherscan" = "什么是 Etherscan?";
+"settings_learn_nft_journey_navigation_title" = "开启数字藏品旅程";
+
+"settings_help_center" = "帮助中心";
+"settings_about_starry_sky" = "关于星空数藏";
+"settings_version" = "版本";
+"settings_terms_of_service" = "服务条款";
+"settings_privacy" = "隐私";
+"settings_wallets_navigation_title" = "钱包";
+"settings_wallets_multi_coin_wallets" = "多币种钱包";
+"settings_wallets_add_wallet" = "添加";
+
+"settings_phrase_cancel" = "取消";
+"settings_phrase_creat_new_wallet" = "创建新钱包";
+"settings_phrase_import_wallet" = "导入已有钱包";

@@ -1,0 +1,72 @@
+// TabBar
+"tab_home" = "Home";
+"tab_nft" = "NFT";
+"tab_browser" = "Browser";
+"tab_settings" = "Settings";
+// settings
+"settings_navigation_title" = "Settings";
+"settings_wallets" = "Wallets";
+"settings_security" = "Security";
+"settings_security_navigation_title" = "Security";
+"settings_enable_face_id" = "Enable Face ID";
+"settings_enable_2_factor_authentication" = "Enable 2-Factor Authentication";
+"settings_auto_app_lock" = "Auto App Lock";
+"settings_appearance" = "Appearance";
+"settings_display_theme" = "Dark Mode";
+"settings_dark_mode_navigation_title" = "Dark Mode";
+"settings_dark_mode_automatic" = "Automatic";
+"settings_dark_mode_settings_dark_mode_automatic_footer" = "When enabled, App will switch dark mode on/off to match your system settings.";
+"settings_dark_mode_select_manually" = "Select manually";
+"settings_dark_mode_normal" = "Normal Mode";
+"settings_dark_mode_dark" = "Dark Mode";
+"settings_dark_mode_subtitle_disabled" = "Disabled";
+"settings_dark_mode_subtitle_enabled" = "Enabled";
+"settings_dark_mode_subtitle_automatic" = "Automatic";
+
+"settings_appl_anguage" = "App Language";
+"settings_support" = "Support";
+"settings_learn" = "Learn";
+
+"settings_learn_intro_to_nft" = "Intro To NFT";
+"settings_learn_what_is_nft_" = "What is an NFT?";
+"settings_learn_how_buy_nft" = "How to buy an NFT";
+"settings_learn_what_nft_drops" = "What are NFT drops?";
+"settings_learn_how_creat_nft" = "How to creat an NFT";
+"settings_learn_what_is_mint" = "What is mintings?";
+"settings_learn_what_are_redeemble_nft" = "What are redeemble NFTs?";
+"settings_learn_how_sell_nft" = "How to sell an NFT";
+"settings_learn_what_art_nft" = "What are art NFTs?";
+"settings_learn_what_music_art" = "What are music NFTs?";
+
+"settings_learn_intro_to_web3" = "Intro To Web3";
+"settings_learn_what_is_web3" = "What is web3?";
+"settings_learn_what_is_crypto_currency" = "What is cryptocurrency?";
+"settings_learn_what_is_crypto_wallet" = "What is crypto wallet?";
+"settings_learn_what_is_dao" = "What is a DAO?";
+"settings_learn_protected_in_web3" = "How to stay protected in web3?";
+"settings_learn_what_is_metaverse" = "What is the metaverse?";
+"settings_learn_what_is_metamask_wallet" = "What is MeatMask wallet?";
+"settings_learn_what_is_coinbase_wallet" = "What is Coinbase wallet?";
+
+"settings_learn_intro_to_blockchain_basic" = "Blockchain Basic";
+"settings_learn_what_is_blockchain" = "What is blockchain?";
+"settings_learn_what_is_gas_fees" = "What is blockchain gas fees?";
+"settings_learn_what_is_ethereum" = "What is Ethereum?";
+"settings_learn_what_is_WETH" = "What is WETH";
+"settings_learn_what_is_Arbitrum" = "What is Arbitrum";
+"settings_learn_what_is_Polygon" = "What is Polygon(MATIC)";
+"settings_learn_what_is_Etherscan" = "What is Etherscan";
+"settings_learn_nft_journey_navigation_title" = "NFT Journey";
+
+"settings_help_center" = "Help Center";
+"settings_about_starry_sky" = "About Starry Sky";
+"settings_version" = "Version";
+"settings_terms_of_service" = "Terms of Service";
+"settings_privacy" = "Privacy";
+"settings_wallets_navigation_title" = "Wallets";
+"settings_wallets_multi_coin_wallets" = "Multi-Coin Wallets";
+"settings_wallets_add_wallet" = "Add";
+
+"settings_phrase_cancel" = "Cancel";
+"settings_phrase_creat_new_wallet" = "Creat a new wallet";
+"settings_phrase_import_wallet" = "I already have a wallet";
